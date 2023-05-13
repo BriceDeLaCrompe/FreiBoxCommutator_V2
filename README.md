@@ -18,5 +18,9 @@ Brice
 
 
 
+
+
+
+
 ![](FreiBoxActiveCommutator_V2_Assembly.gif)
 
