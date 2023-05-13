@@ -18,6 +18,5 @@ Brice
 
 
 
-![Uploading FreiBoxActiveCommutator_V2_Assembly.gif…]()
 
 
