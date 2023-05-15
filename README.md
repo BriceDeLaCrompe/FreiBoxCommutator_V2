@@ -10,6 +10,10 @@ eNeuro 27 April 2023, 10 (4) ENEURO.0469-22.2023; DOI: 10.1523/ENEURO.0469-22.20
 
 To assemble the commutator, please check first the 'FreiBoxCommutator_V2 _AssemblyInstruction.pptx'
 
+Note concerning the electronic circuit:
+If you don't want to solder the electronic circuit yourself, you can directly use a motor driver shield. For example the ARD-CNC-Kit1 (<20euros).
+
+
 Brice.
 
 
