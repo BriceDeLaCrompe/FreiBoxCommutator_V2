@@ -8,11 +8,12 @@ Since the detection principle and the Arduino Code is the same as for v1, please
 Brice De La Crompe, Megan Schneck, Florian Steenbergen, Artur Schneider, Ilka Diester
 eNeuro 27 April 2023, 10 (4) ENEURO.0469-22.2023; DOI: 10.1523/ENEURO.0469-22.2023
 
-To assemble the commutator, please check first the 'FreiBoxCommutator_V2 _AssemblyInstruction.pptx'
+/!\ To assemble the commutator, please check first the 'FreiBoxCommutator_V2 _AssemblyInstruction.pptx'
+
+Don't hesitate to tell me if you have an idea to improve the design! I will be happy to have comments from you.
 
 Note concerning the electronic circuit:
-If you don't want to solder the electronic circuit yourself, you can directly use a motor driver shield. For example the ARD-CNC-Kit1 (<20euros).
-
+If you don't want to solder the electronic circuit yourself, you can directly use a motor driver shield.
 
 Brice.
 
