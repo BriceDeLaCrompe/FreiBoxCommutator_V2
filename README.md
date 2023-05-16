@@ -25,3 +25,9 @@ Brice.
 
 ![](FreiBoxActiveCommutator_V2_Assembly.gif)
 
+
+![](FreiBox_Commutator_V2.jpg)
+
+
+![](PartOverview.jpg.jpg)
+
