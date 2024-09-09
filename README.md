@@ -1,6 +1,6 @@
 # FreiBoxCommutator_V2
 
-we redesigned the 3D-printed FreiBox commutator to simplify assembly and reduce noise. The 3D-printed gears have been replaced with a timing pulley system.
+We redesigned the 3D-printed FreiBox commutator to simplify assembly and reduce noise. The 3D-printed gears have been replaced with a timing pulley system.
 
 Since the detection principle and Arduino code are the same as in v1, please refer to our previous version on GitHub. Don't forget to cite our paper:
 - https://github.com/Optophys-Lab/FreiBox/tree/main/Commutator_FreiBox2022
