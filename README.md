@@ -8,7 +8,7 @@ Since the detection principle and Arduino code are the same as in v1, please ref
 Brice De La Crompe, Megan Schneck, Florian Steenbergen, Artur Schneider, Ilka Diester
 eNeuro 27 April 2023, 10 (4) ENEURO.0469-22.2023; DOI: 10.1523/ENEURO.0469-22.2023
 
-/!\ Assembly Instructions:Before assembling the commutator, please check the file "FreiBoxCommutator_V2_AssemblyInstruction.pptx."
+/!\ Assembly Instructions: Before assembling the commutator, please check the file "FreiBoxCommutator_V2_AssemblyInstruction.pptx."
 
 Feel free to share any ideas for improving the design! I would appreciate your feedback.
 
